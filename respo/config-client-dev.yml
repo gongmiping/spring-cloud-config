@@ -1,3 +1,3 @@
-server:
-  port: 8881
+ #服务相关的设置不要修改，bootstrap.yml优先加载，会修改。。。。。。。。。。
+  
 foo: foo version 1
